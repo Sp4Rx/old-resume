@@ -46,8 +46,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Developer with 7 years of experience working with Flutter, Firebase, Figma, Dio, Bloc, Riverpod, Java, Kotlin, React Native. 
+      Developer with 8 years of experience working with Flutter, Firebase, Figma, Dio, Bloc, Riverpod, Java, Kotlin, React Native. 
       I have developed successful apps that have touched millions of people. Proficient in Python and experienced with AWS.
+
+      In addition to mobile and backend development, I have a growing expertise in AI-driven content generation. 
+      I actively work with **ComfyUI, Stable Diffusion, Flux.1 and AI-based image/video generation**. 
+      I also experiment with **LLMs (Gemini API)** for automation and creative workflows.
 
 education:
     - degree: B.Tech in Computer Science & Engineering
@@ -196,6 +200,15 @@ skills:
         level: 50% 
         
       - name: Jenkins/Github Actions
+        level: 50%
+
+      - name: ComfyUI
+        level: 50%
+
+      - name: AI Image & Video Generation (Gen-2, SD, OpenAI)
+        level: 50%
+
+      - name: Gemini API / LLMs
         level: 50%
 
 # footer: >
