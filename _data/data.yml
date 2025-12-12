@@ -60,13 +60,24 @@ education:
 
 experiences:
     - role: Freelance Consultant & AI Enthusiast
-      time: 01/02/2024 - Present
+      time: 20/11/2024 - Present
       company: Freelance / Personal Projects
       details: |
         - Delivered freelance projects involving Flutter, Firebase, and custom backend setups for early-stage clients.
         - Explored AI automation tools like ComfyUI, n8n, and LangChain for building intelligent workflows.
         - Built experimental apps using Agentic AIs and LLM APIs (Gemini, OpenAI, etc) for task automation and creative problem-solving.
         - Worked on personal initiatives including E2EE chat systems, mini game with vibe coding.
+
+    - role: Senior Manager
+      time: 17/06/2024 - 20/11/2024.
+      company: Stashfin, Gurgaon
+      details: |
+        [Stashfin](https://www.stashfin.com/) is a leading Indian fintech company specializing in digital lending and credit access. The platform offers instant personal loans and flexible credit lines through a fully digital process, using advanced data analytics and risk assessment to deliver fast approvals and secure financial services. Stashfin focuses on improving financial inclusion by providing accessible credit solutions to underserved and underbanked customers across India.
+        - Led and managed a **team of 5 engineers**, overseeing daily execution, code quality, sprint planning, and performance improvements.
+        - **Architected the Flutter application from scratch**, defining the technical roadmap, project structure, state management approach, and scalable modular architecture.
+        - Collaborated and consulted with **multiple cross-functional stakeholders** including product, design, backend, and leadership teams to align requirements, refine features, and deliver high-impact solutions.
+        - Drove end-to-end technical decision-making, ensuring the app met performance, security, and scalability standards.
+        - Mentored junior developers and established best practices for coding, testing, and CI/CD workflows.
 
     - role: Senior Full Stack Developer
       time: 03/06/2023 - 04/01/2024
